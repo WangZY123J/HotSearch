@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "empty-data": "/components/empty-data/empty-data",
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "search-result-item-theme-1": "/components/search-result-item-theme-1/search-result-item-theme-1",
+    "search-result-item-theme-2": "/components/search-result-item-theme-2/search-result-item-theme-2",
+    "search-result-item-theme-3": "/components/search-result-item-theme-3/search-result-item-theme-3"
+  },
+  "component": true
+}

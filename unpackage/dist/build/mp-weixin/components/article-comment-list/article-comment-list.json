@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "article-comment-item": "/components/article-comment-item/article-comment-item",
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body"
+  },
+  "component": true
+}

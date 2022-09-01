@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "热播",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "hot-video-item": "/components/hot-video-item/hot-video-item"
+  }
+}

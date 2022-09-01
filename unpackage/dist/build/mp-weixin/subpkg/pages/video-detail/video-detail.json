@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "视频",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "hot-video-info": "/components/hot-video-info/hot-video-info",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "empty-data": "/components/empty-data/empty-data",
+    "article-comment-item": "/components/article-comment-item/article-comment-item",
+    "article-operate": "/components/article-operate/article-operate",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "article-comment-commit": "/components/article-comment-commit/article-comment-commit"
+  }
+}

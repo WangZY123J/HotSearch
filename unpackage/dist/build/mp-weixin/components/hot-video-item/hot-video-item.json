@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "hot-video-info": "/components/hot-video-info/hot-video-info"
+  },
+  "component": true
+}

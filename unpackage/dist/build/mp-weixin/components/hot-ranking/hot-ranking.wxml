@@ -1,0 +1,1 @@
+<view class="ranking data-v-0c82bd7c"><image class="ranking-bg data-v-0c82bd7c" src="{{getRankingBg}}"></image><text class="{{['ranking-text','data-v-0c82bd7c',(ranking<=3)?'text-white':'']}}">{{ranking}}</text></view>

@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="collect-box data-v-0bc0aa46" bindtap="__e"><image class="img data-v-0bc0aa46" src="{{getIsCollect}}"></image><text class="txt data-v-0bc0aa46">收藏</text></view>

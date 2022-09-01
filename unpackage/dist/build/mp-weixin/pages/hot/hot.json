@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "热搜",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-search": "/components/my-search/my-search",
+    "my-tabs": "/components/my-tabs/my-tabs",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "hot-list-item": "/components/hot-list-item/hot-list-item"
+  }
+}
